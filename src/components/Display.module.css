@@ -1,0 +1,11 @@
+.display{
+   margin:20px auto;
+   width: 175px;
+   font-size: 25px;
+   border: solid thin rgb(89, 89, 89);
+   border-radius: 5px;
+   background-color: rgba(0, 0, 0, 0.923);
+   color: white;
+   text-align: end;
+   padding: 10px;
+}
