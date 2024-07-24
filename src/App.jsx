@@ -24,7 +24,7 @@ function App(){
 
   return (
     <>
-      <div className={styles.calculator}>
+      <div className={`${styles.calculator} shadow`}>
         <Display displayValue={calVal}></Display>
         <ButtonsContainer onButtonClick={onButtonClick}></ButtonsContainer>
       </div>

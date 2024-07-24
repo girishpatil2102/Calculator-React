@@ -1,8 +1,8 @@
 .calculator{
-   border: 1px solid rgb(255, 255, 255);
-   width: 200px;
+   border: 1px solid rgb(32, 32, 32);
+   width: 350px;
    border-radius: 10px;
-   margin: 120px auto;
+   margin:50px auto;
    text-align: center;
-   background-color: rgb(40, 40, 40);
+   background-color: rgb(36, 35, 35);
 }
