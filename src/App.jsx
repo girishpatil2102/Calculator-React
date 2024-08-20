@@ -7,7 +7,7 @@ function App(){
 
   let [calVal,setCalVal]=useState("")
   function onButtonClick(buttonText){
-    if(buttonText==="C"){
+    if(buttonText==="clr"){
       const backspace=calVal.slice(0,-1);
       setCalVal(backspace);
     }else if(buttonText==="="){
